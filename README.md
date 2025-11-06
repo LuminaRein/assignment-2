@@ -3,7 +3,7 @@
 A Python script that parses an Excel spreadsheet with multiple tabs containing different types of map data and creates an interactive Folium map.
 
 ## Actual output
-[Quiz](my_map.html)
+[My Map](my_map.html)
 
 ## Example Output
 - [Map w/ Lines](map_with_lines.html)
