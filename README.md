@@ -2,6 +2,9 @@
 
 A Python script that parses an Excel spreadsheet with multiple tabs containing different types of map data and creates an interactive Folium map.
 
+## Actual output
+[Quiz](my_map.html)
+
 ## Example Output
 - [Map w/ Lines](map_with_lines.html)
 
@@ -131,6 +134,11 @@ latitude | longitude  | intensity
 40.7500  | -73.9900   | 1.0
 40.6900  | -74.0200   | 0.5
 ```
+
+### 6. Latitude/Longitude Pop-up
+
+Whenever you click on the map, it displays a small pop-up that shows the longitude
+and latitude of your cursor on the map! It sparks joy!
 
 ## Available Icon Types
 
